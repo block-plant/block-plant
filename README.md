@@ -69,14 +69,8 @@
 
 ---
 
-### GitHub Activity
+### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=block-plant&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br><br>
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=block-plant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
 </div>
