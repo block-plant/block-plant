@@ -4,13 +4,13 @@
 
   <p>I enjoy tackling complex algorithmic challenges and am currently building an online code evaluation platform, alongside diving deep into core computer science concepts.</p>
 
-  <img src="https://profile-counter.glitch.me/block-plant/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=block-plant&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 
 </div>
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-kunwar-singh-226502390/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/AkunwarS/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 <details>
   <summary><b>💻 Programming Languages</b> (Click to expand)</summary>
@@ -69,10 +69,10 @@
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=block-plant&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=block-plant&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=block-plant&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
