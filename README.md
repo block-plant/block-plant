@@ -33,23 +33,44 @@
 
 ## 🧠 `whoami`
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
+<table>
+<tr>
+<td valign="top" width="58%">
 
 ```typescript
 const ayush = {
-  name        : "Ayush Kunwar Singh",
-  username    : "block-plant",
-  role        : ["Full-Stack Developer", "Competitive Programmer"],
-  location    : "India 🇮🇳",
-  currentWork : "🔨 Building an Online Code Evaluation Platform",
-  passion     : "💡 Complex algorithms & scalable architecture",
-  arenas      : ["LeetCode", "Codeforces", "CodeChef"],
-  funFact     : "⚡ I debug code... in my dreams",
-  openTo      : "Interesting collabs, tough problems & good chai ☕",
+  name     : "Ayush Kunwar Singh",
+  alias    : "block-plant",
+  location : "India 🇮🇳",
+  role     : "Full-Stack Dev + Competitive Programmer",
+  building : "Online Code Evaluation Platform 🔨",
+  passion  : "Algorithms & Scalable Architecture 💡",
+  arenas   : ["LeetCode", "Codeforces", "CodeChef"],
+  funFact  : "I debug code in my dreams ⚡",
+  openTo   : "Collabs, hard problems & good chai ☕",
 };
 ```
 
-<br clear="right"/>
+<br/>
+
+![](https://img.shields.io/badge/🟢_Status-Building_Cool_Stuff-00c853?style=flat-square)
+![](https://img.shields.io/badge/🏆_CP-Actively_Competing-FF6B9D?style=flat-square)
+![](https://img.shields.io/badge/🤝_Open_To-Collaboration-FF9F43?style=flat-square)
+![](https://img.shields.io/badge/☕_Fuel-Chai_%26_Coffee-blueviolet?style=flat-square)
+
+</td>
+<td valign="top" width="42%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding animation"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Languages-6+-FF6B9D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stack-Full_Stack-FF9F43?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
 
 ---
 
