@@ -5,25 +5,25 @@
 <!-- ╔══════════════════ ANIMATED HEADER ══════════════════╗ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Hey%2C%20I'm%20Ayush!%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9C%A8%20Full-Stack%20Dev%20%7C%20%F0%9F%8F%86%20Competitive%20Programmer%20%7C%20%F0%9F%9A%80%20Code%20Alchemist%20%E2%9C%A8&descSize=17&descAlignY=60&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,13,19,25&height=220&section=header&text=Hey%2C+I%27m+Ayush!&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack+Dev+%7C+Competitive+Programmer+%7C+Code+Alchemist&descSize=17&descAlignY=60&descColor=ffffff" />
 
 </div>
 
 <!-- ╔══════════════════ TYPING ANIMATIONS ══════════════════╗ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&pause=900&color=FF6B9D&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+Scalable+Systems;%F0%9F%92%A1+Coffee+%2B+Code+%3D+Pure+Magic+%E2%9C%A8;%F0%9F%8F%86+Competitive+Programmer+at+Heart;%F0%9F%8C%90+Full-Stack+Developer;%F0%9F%8C%B1+Always+Learning+Something+New;%F0%9F%94%A5+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=900&color=FF6B9D&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems+%F0%9F%9A%80;Coffee+%2B+Code+%3D+Pure+Magic;Competitive+Programmer+at+Heart+%F0%9F%8F%86;Full-Stack+Developer+%F0%9F%8C%90;Always+Learning+Something+New;Turning+Ideas+Into+Reality+%F0%9F%94%A5" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <!-- Profile badges -->
 <a href="https://komarev.com/ghpvc/?username=block-plant">
-  <img src="https://komarev.com/ghpvc/?username=block-plant&color=ff69b4&style=for-the-badge&label=👀+PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=block-plant&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/block-plant?color=ff9f43&style=for-the-badge&logo=github&label=🤝+FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/block-plant?color=ff9f43&style=for-the-badge&logo=github&label=FOLLOWERS" />
 &nbsp;
-<img src="https://img.shields.io/badge/⚡_Focus-Full%20Stack%20%2B%20CP-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Full_Stack_%2B_CP-blueviolet?style=for-the-badge&logo=lightning" />
 
 </div>
 
