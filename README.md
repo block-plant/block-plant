@@ -91,8 +91,7 @@ const ayush = {
 
 **CodeChef** &nbsp;·&nbsp; [`trip_hope_04`](https://www.codechef.com/users/trip_hope_04)
 
-<img width="100%" src="https://codechef-readme-stats.vercel.app/api?username=trip_hope_04&theme=dark" />
-
+<img width="100%" src="https://cp-logo.vercel.app/codechef/trip_hope_04" />
   </td>
 </tr>
 </table>
