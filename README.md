@@ -35,16 +35,19 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="coding animation"/>
 
-**Ayush Kunwar Singh** &nbsp;·&nbsp; `block-plant` &nbsp;·&nbsp; 📍 India 🇮🇳
-
-I'm a **Full-Stack Developer** and **Competitive Programmer** who loves cracking complex algorithmic challenges. Currently building an **Online Code Evaluation Platform** from scratch.
-
-- 🔨 &nbsp;**Building** &emsp;&emsp;→ &nbsp;Online Code Evaluation Platform
-- 🏆 &nbsp;**Competing** &emsp;→ &nbsp;LeetCode &nbsp;·&nbsp; Codeforces &nbsp;·&nbsp; CodeChef
-- 💡 &nbsp;**Passionate** &emsp;→ &nbsp;Algorithms & Scalable Architecture
-- 📚 &nbsp;**Exploring** &emsp;&nbsp;→ &nbsp;OS &nbsp;·&nbsp; DBMS &nbsp;·&nbsp; System Design
-- ☕ &nbsp;**Open to** &emsp;&emsp;→ &nbsp;Collabs, hard problems & good chai
-- ⚡ &nbsp;**Fun fact** &emsp;&emsp;→ &nbsp;I debug code in my dreams
+```typescript
+const ayush = {
+  name        : "Ayush Kunwar Singh",
+  username    : "block-plant",
+  location    : "India 🇮🇳",
+  role        : ["Full-Stack Developer", "Competitive Programmer"],
+  currentWork : "Building an Online Code Evaluation Platform 🔨",
+  passion     : "Complex algorithms & scalable architecture 💡",
+  arenas      : ["LeetCode", "Codeforces", "CodeChef"],
+  openTo      : "Collabs, tough problems & good chai ☕",
+  funFact     : "I debug code in my dreams ⚡",
+};
+```
 
 <br clear="right"/>
 
