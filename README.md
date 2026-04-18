@@ -37,23 +37,23 @@
 
 ```typescript
 const ayush = {
-  name        : "Ayush Kunwar Singh",
-  username    : "block-plant",
-  location    : "India 🇮🇳",
-  role        : ["Full-Stack Developer", "Competitive Programmer"],
-  currentWork : "Building an Online Code Evaluation Platform 🔨",
-  passion     : "Complex algorithms & scalable architecture 💡",
-  arenas      : ["LeetCode", "Codeforces", "CodeChef"],
-  openTo      : "Collabs, tough problems & good chai ☕",
-  funFact     : "I debug code in my dreams ⚡",
+  name     : "Ayush Kunwar Singh",
+  username : "block-plant",
+  location : "India 🇮🇳",
+  role     : ["Full-Stack Developer", "Competitive Programmer"],
+  passion  : "Complex algorithms & scalable architecture",
+  arenas   : ["LeetCode", "Codeforces", "CodeChef"],
+  openTo   : "Collabs, tough problems & good chai ☕",
 };
 ```
+
+> 🌱 &nbsp;Deep-diving into **OS · DBMS · System Design** — one rabbit hole at a time.
 
 <br clear="right"/>
 
 ---
 
-## Tech Universe
+## 🌈 Tech Universe
 
 <div align="center">
 
