@@ -89,9 +89,9 @@ const ayush = {
   </td>
   <td width="33%" align="center" valign="top">
 
-**CodeChef** &nbsp;·&nbsp; [`trip_hope_04`](https://www.codechef.com/users/trip_hope_04)
+**CodeChef** &nbsp;·&nbsp; [`block_plant`](https://www.codechef.com/users/block_plant)
 
-<img width="100%" src="https://cp-logo.vercel.app/codechef/trip_hope_04" />
+<img width="100%" src="https://cp-logo.vercel.app/codechef/block_plant" />
   </td>
 </tr>
 </table>
@@ -106,8 +106,8 @@ const ayush = {
   <img src="https://img.shields.io/badge/Codeforces-block--plant-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.codechef.com/users/trip_hope_04">
-  <img src="https://img.shields.io/badge/CodeChef-trip__hope__04-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<a href="https://www.codechef.com/users/block_plant">
+  <img src="https://img.shields.io/badge/CodeChef-block__plant-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 </div>
