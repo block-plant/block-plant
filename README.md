@@ -43,10 +43,8 @@ const ayush = {
   alias    : "block-plant",
   location : "India 🇮🇳",
   role     : "Full-Stack Dev + Competitive Programmer",
-  building : "Online Code Evaluation Platform 🔨",
   passion  : "Algorithms & Scalable Architecture 💡",
   arenas   : ["LeetCode", "Codeforces", "CodeChef"],
-  funFact  : "I debug code in my dreams ⚡",
   openTo   : "Collabs, hard problems & good chai ☕",
 };
 ```
