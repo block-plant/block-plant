@@ -73,18 +73,25 @@ const ayush = {
 
 <table width="100%" border="0" cellspacing="0" cellpadding="10">
 <tr>
-  <td width="50%" align="center" valign="top">
+  <td width="33%" align="center" valign="top">
 
 **LeetCode** &nbsp;·&nbsp; [`AkunwarS`](https://leetcode.com/u/AkunwarS/)
 
 <img width="100%" src="https://leetcard.jacoblin.cool/AkunwarS?theme=dark&font=Fira%20Code&border=0&radius=12&ext=heatmap" />
 
   </td>
-  <td width="50%" align="center" valign="top">
+  <td width="33%" align="center" valign="top">
 
 **Codeforces** &nbsp;·&nbsp; [`block-plant`](https://codeforces.com/profile/block-plant)
 
 <img width="100%" src="https://codeforces-readme-stats.vercel.app/api/card?username=block-plant&theme=dark&border_color=0096C7&title_color=00B4D8&text_color=90E0EF&bg_color=0d1117" />
+
+  </td>
+  <td width="33%" align="center" valign="top">
+
+**CodeChef** &nbsp;·&nbsp; [`trip_hope_04`](https://www.codechef.com/users/trip_hope_04)
+
+<img width="100%" src="https://codechef-readme-stats.vercel.app/api?username=trip_hope_04&theme=dark" />
 
   </td>
 </tr>
@@ -105,7 +112,6 @@ const ayush = {
 </a>
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
