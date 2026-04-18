@@ -33,37 +33,20 @@
 
 ## 🧠 `whoami`
 
-<table>
-<tr>
-<td valign="top" width="58%">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" alt="coding cat"/>
 
-```typescript
-const ayush = {
-  name     : "Ayush Kunwar Singh",
-  alias    : "block-plant",
-  location : "India 🇮🇳",
-  role     : "Full-Stack Dev + Competitive Programmer",
-  passion  : "Algorithms & Scalable Architecture 💡",
-  arenas   : ["LeetCode", "Codeforces", "CodeChef"],
-  openTo   : "Collabs, hard problems & good chai ☕",
-};
-```
+**Ayush Kunwar Singh** &nbsp;·&nbsp; `block-plant` &nbsp;·&nbsp; 📍 India 🇮🇳
 
-<br/>
+I'm a **Full-Stack Developer** and **Competitive Programmer** who loves cracking complex algorithmic challenges. Currently building an **Online Code Evaluation Platform** from scratch.
 
-</td>
-<td valign="top" width="42%" align="center">
+- 🔨 &nbsp;**Building** &emsp;&emsp;→ &nbsp;Online Code Evaluation Platform
+- 🏆 &nbsp;**Competing** &emsp;→ &nbsp;LeetCode &nbsp;·&nbsp; Codeforces &nbsp;·&nbsp; CodeChef
+- 💡 &nbsp;**Passionate** &emsp;→ &nbsp;Algorithms & Scalable Architecture
+- 📚 &nbsp;**Exploring** &emsp;&nbsp;→ &nbsp;OS &nbsp;·&nbsp; DBMS &nbsp;·&nbsp; System Design
+- ☕ &nbsp;**Open to** &emsp;&emsp;→ &nbsp;Collabs, hard problems & good chai
+- ⚡ &nbsp;**Fun fact** &emsp;&emsp;→ &nbsp;I debug code in my dreams
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding animation"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Languages-6+-FF6B9D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Stack-Full_Stack-FF9F43?style=for-the-badge" />
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
@@ -104,13 +87,19 @@ const ayush = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=block-plant&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FF9F43&text_color=ffffff&ring_color=FF6B9D" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=block-plant&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff&langs_count=8" height="180" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=block-plant&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF9F43&currStreakLabel=FF6B9D&sideLabels=FF9F43&dates=888888" />
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<tr>
+  <td width="34%" align="center" valign="top">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=block-plant&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FF9F43&text_color=ffffff&hide_rank=false&rank_icon=github" />
+  </td>
+  <td width="32%" align="center" valign="top">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=block-plant&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF9F43&currStreakLabel=FF6B9D&sideLabels=FF9F43&dates=888888&stroke=FF6B9D" />
+  </td>
+  <td width="34%" align="center" valign="top">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=block-plant&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff&langs_count=8" />
+  </td>
+</tr>
+</table>
 
 </div>
 
