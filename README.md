@@ -53,7 +53,7 @@ const ayush = {
 
 ---
 
-## 🌈 Tech Universe
+## Tech Universe
 
 <div align="center">
 
