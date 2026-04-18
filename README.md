@@ -51,11 +51,6 @@ const ayush = {
 
 <br/>
 
-![](https://img.shields.io/badge/🟢_Status-Building_Cool_Stuff-00c853?style=flat-square)
-![](https://img.shields.io/badge/🏆_CP-Actively_Competing-FF6B9D?style=flat-square)
-![](https://img.shields.io/badge/🤝_Open_To-Collaboration-FF9F43?style=flat-square)
-![](https://img.shields.io/badge/☕_Fuel-Chai_%26_Coffee-blueviolet?style=flat-square)
-
 </td>
 <td valign="top" width="42%" align="center">
 
