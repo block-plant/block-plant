@@ -47,7 +47,7 @@ const ayush = {
 
 ---
 
-## Tech Universe
+## 🛠️ Tech Universe
 
 <div align="center">
 
@@ -62,18 +62,6 @@ const ayush = {
 
 ### 🛠️ Tools & Environment
 <img src="https://skillicons.dev/icons?i=git,github,linux,npm,vscode&theme=dark&perline=6" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Core Concepts |||
-|:---:|:---:|:---:|
-| `Data Structures` | `Algorithms` | `Competitive Programming` |
-| `Operating Systems` | `DBMS` | `System Design` |
-| `REST APIs` | `Auth & OAuth` | `OOP` |
 
 </div>
 
@@ -146,21 +134,13 @@ const ayush = {
 
 <div align="center">
 
-> This section is updated manually. See the [achievement updater](./ACHIEVEMENTS.md) for the template.
-
-| 🏆 | Achievement | Platform / Context | Date |
-|:---:|:---|:---|:---:|
-| 🥇 | *Your first win goes here — update when you earn it!* | — | — |
-
-</div>
-
----
-
-## 🎖️ GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=block-plant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<table width="100%" border="0" cellspacing="0" cellpadding="10">
+<tr>
+  <td align="center" width="60px">🥉</td>
+  <td><strong>3rd</strong><br/><sub>Cybertron Web Forge at Botrush 4.0</sub></td>
+  <td align="right"><sub>Mon 2026</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -212,7 +192,8 @@ const ayush = {
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+> *"जीवन में कोई चीज़ इतनी बड़ी मत समझो कि वो तुम्हें डरा सके।"*
+> — APJ Abdul Kalam
 
 </div>
 
