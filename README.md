@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045E,50:0096C7,100:90E0EF&height=220&section=header&text=Hi%2C+I%27m+Ayush Kunwar Singh!&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech+%40+MNNIT+Allahabad+%7C+Full-Stack+Dev+%7C+Competitive+Programmer&descSize=16&descAlignY=60&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045E,50:0096C7,100:90E0EF&height=220&section=header&text=Hi%2C+I%27m+Ayush+Kunwar+Singh!&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech+%40+MNNIT+Allahabad+%7C+Full-Stack+Dev+%7C+Competitive+Programmer&descSize=16&descAlignY=60&descColor=ffffff" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=00B4D8&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%8C%90;Competitive+Programmer+%F0%9F%8F%86;Always+Learning+Something+New;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
