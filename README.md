@@ -115,40 +115,34 @@ const ayush = {
 
 ---
 
+---
+
 ## 🚀 Featured Work
 
-<table width="100%" border="1" cellspacing="0" cellpadding="15" bordercolor="#30363D">
-  <tr>
-    <td width="100%" valign="top">
-      <h3>
-        <a href="https://github.com/block-plant/Forge">⚒️ Forge: Multi-Tenant Backend-as-a-Service</a>
-      </h3>
-      <p>
-        <strong>A production-grade BaaS built entirely from scratch in Go.</strong><br/>
-        <em>Zero external dependencies (no <code>net/http</code>, no Postgres). Every byte understood.</em>
-      </p>
-      <p>
-        Forge is a complete Firebase/Supabase alternative engineered from first principles. It powers entire application ecosystems from a single server by dynamically spawning isolated project environments.
-      </p>
-      <ul>
-        <li><strong>Core Engine:</strong> Hand-rolled TCP listener & HTTP/1.1 parser. Custom RFC 6455 WebSocket implementation for real-time pub/sub.</li>
-        <li><strong>Database & Storage:</strong> Custom NoSQL Document store backed by an in-memory B-Tree with a Write-Ahead Log (WAL) for ACID persistence. Content-addressable file storage with deduplication.</li>
-        <li><strong>Fleet Architecture:</strong> Master/Child multi-tenant node provisioning natively utilizing Linux <code>systemd</code> daemon management.</li>
-        <li><strong>Security:</strong> Built a custom domain-specific language (DSL) with a hand-written lexer, parser, and AST evaluator for declarative security rules. Integrated SMTP for secure OTP generation and JWT session management.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/System_Architecture-03045E?style=flat-square" />
-        <img src="https://img.shields.io/badge/TCP/IP_Sockets-0096C7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Compilers_%26_Parsers-90E0EF?style=flat-square&labelColor=333" />
-      </p>
-    </td>
-  </tr>
-</table>
+### ⚒️ [Forge: Multi-Tenant Backend-as-a-Service](https://github.com/block-plant/Forge)
 
-<!-- Add future projects below by copying the <table> structure above! -->
+<a href="https://github.com/block-plant/Forge">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=block-plant&repo=Forge&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=0096C7&text_color=90E0EF" alt="Forge Repo" width="380"/>
+</a>
+
+**A production-grade BaaS built entirely from scratch in Go.**  
+*Zero external dependencies (no `net/http`, no Postgres). Every byte understood.*
+
+Forge is a complete Firebase/Supabase alternative engineered from first principles. It powers entire application ecosystems from a single server by dynamically spawning isolated project environments.
+
+🔹 **Core Engine:** Hand-rolled TCP listener & HTTP/1.1 parser. Custom RFC 6455 WebSocket implementation.<br/>
+🔹 **Database & Storage:** Custom NoSQL Document store with an in-memory B-Tree and Write-Ahead Log (WAL) for ACID persistence.<br/>
+🔹 **Architecture:** Master/Child multi-tenant node provisioning natively utilizing Linux `systemd` daemon management.<br/>
+🔹 **Security:** Custom Domain-Specific Language (DSL) with a hand-written lexer/parser/AST evaluator for declarative security rules.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/TCP/IP_Sockets-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/System_Architecture-03045E?style=for-the-badge" /> <img src="https://img.shields.io/badge/Compilers_%26_Parsers-90E0EF?style=for-the-badge&labelColor=333" />
+
+<br clear="both"/>
 
 ---
+
 
 ## 📊 GitHub Stats
 
