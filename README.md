@@ -113,6 +113,43 @@ const ayush = {
 </div>
 ---
 
+---
+
+## 🚀 Featured Work
+
+<table width="100%" border="1" cellspacing="0" cellpadding="15" bordercolor="#30363D">
+  <tr>
+    <td width="100%" valign="top">
+      <h3>
+        <a href="https://github.com/block-plant/Forge">⚒️ Forge: Multi-Tenant Backend-as-a-Service</a>
+      </h3>
+      <p>
+        <strong>A production-grade BaaS built entirely from scratch in Go.</strong><br/>
+        <em>Zero external dependencies (no <code>net/http</code>, no Postgres). Every byte understood.</em>
+      </p>
+      <p>
+        Forge is a complete Firebase/Supabase alternative engineered from first principles. It powers entire application ecosystems from a single server by dynamically spawning isolated project environments.
+      </p>
+      <ul>
+        <li><strong>Core Engine:</strong> Hand-rolled TCP listener & HTTP/1.1 parser. Custom RFC 6455 WebSocket implementation for real-time pub/sub.</li>
+        <li><strong>Database & Storage:</strong> Custom NoSQL Document store backed by an in-memory B-Tree with a Write-Ahead Log (WAL) for ACID persistence. Content-addressable file storage with deduplication.</li>
+        <li><strong>Fleet Architecture:</strong> Master/Child multi-tenant node provisioning natively utilizing Linux <code>systemd</code> daemon management.</li>
+        <li><strong>Security:</strong> Built a custom domain-specific language (DSL) with a hand-written lexer, parser, and AST evaluator for declarative security rules. Integrated SMTP for secure OTP generation and JWT session management.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/System_Architecture-03045E?style=flat-square" />
+        <img src="https://img.shields.io/badge/TCP/IP_Sockets-0096C7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Compilers_%26_Parsers-90E0EF?style=flat-square&labelColor=333" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Add future projects below by copying the <table> structure above! -->
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
