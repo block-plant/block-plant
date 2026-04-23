@@ -168,7 +168,6 @@ Forge is a complete Firebase/Supabase alternative engineered from first principl
 ---
 
 ### ⚡ [slave-cp: High-Performance Competitive Programming CLI](https://github.com/block-plant/slave-cp)
-
 <a href="https://github.com/block-plant/slave-cp">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=block-plant&repo=slave-cp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=0096C7&text_color=90E0EF" alt="slave-cp Repo" width="380"/>
 </a>
