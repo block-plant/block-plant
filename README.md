@@ -165,6 +165,28 @@ Forge is a complete Firebase/Supabase alternative engineered from first principl
 
 <br clear="both"/>
 
+---
+
+### ⚡ [slave-cp: High-Performance Competitive Programming CLI](https://github.com/block-plant/slave-cp)
+
+<a href="https://github.com/block-plant/slave-cp">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=block-plant&repo=slave-cp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=0096C7&text_color=90E0EF" alt="slave-cp Repo" width="380"/>
+</a>
+
+**A robust CLI automation engine that streamlines the end-to-end competitive programming workflow.**  
+*No browser. No WebDriver. Pure terminal — from fetch to verdict.*
+
+🔹 **Scraping Engine:** Cloudflare Turnstile bypass via `cloudscraper` — headless extraction of contest metadata & sample test cases without touching a browser.<br/>
+🔹 **Headless Submission:** Cookie-based `JSESSIONID` session management replacing Selenium entirely — **90% lower submission latency** with zero WebDriver overhead.<br/>
+🔹 **Modular Pipeline:** Decoupled Fetcher → Runner → Submitter architecture; real-time JSON polling for judge verdicts via a headless REST layer.<br/>
+🔹 **23+ Languages:** Dynamic cross-platform execution engine managing compilers & interpreters from C++ and Rust to Haskell — with Rich-powered diff tables for test output.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyPI-slave--cp-0096C7?style=for-the-badge&logo=pypi&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-03045E?style=for-the-badge" /> <img src="https://img.shields.io/badge/Rich_Terminal_UI-90E0EF?style=for-the-badge&labelColor=333" /> <img src="https://img.shields.io/badge/Cloudflare_Bypass-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+
+<br clear="both"/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
