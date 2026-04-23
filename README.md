@@ -143,6 +143,31 @@ Forge is a complete Firebase/Supabase alternative engineered from first principl
 
 ---
 
+---
+
+### 🌌 [Xenova Archive: Digital Mausoleum of a Lost Empire](https://github.com/block-plant/xenova-archive)
+
+<a href="https://github.com/block-plant/xenova-archive">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=block-plant&repo=xenova-archive&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=0096C7&text_color=90E0EF" alt="Xenova Archive Repo" width="380"/>
+</a>
+
+**An immersive, lore-heavy digital experience — part 3D gallery, part interactive narrative, part gamified terminal.**  
+*Chronicling the rise and fall of a civilization that forgot how to die.*
+
+🔹 **Interstellar Map:** 14 planets rendered with custom GLSL shaders, atmospheric scattering, procedural ring systems & spatial audio.<br/>
+🔹 **Void Vault:** 3D relic viewer with post-processing glitch effects and chromatic aberration for recovered Strain Omega artifacts.<br/>
+🔹 **Codex Decoder:** Bi-directional human ↔ Xenovan glyph translator; each decoded entry unlocks a fragment of the "Great Mistake" narrative.<br/>
+🔹 **Three Eras:** Discovery (The Harvest) → Ascension (The Synthetic God) → Great Mistake (The Silence).
+
+<br/>
+
+<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+<img src="https://img.shields.io/badge/Custom_GLSL_Shaders-0096C7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+
+<br clear="both"/>
 
 ## 📊 GitHub Stats
 
