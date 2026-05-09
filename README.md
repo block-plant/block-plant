@@ -91,7 +91,11 @@ const ayush = {
 
 **CodeChef** &nbsp;·&nbsp; [`block_plant`](https://www.codechef.com/users/block_plant)
 
-<img width="100%" src="https://cp-logo.vercel.app/codechef/block_plant" />
+<!-- FIX: cp-logo.vercel.app is dead — using a styled badge instead -->
+<a href="https://www.codechef.com/users/block_plant">
+  <img src="https://img.shields.io/badge/CodeChef-block__plant-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
   </td>
 </tr>
 </table>
@@ -111,9 +115,6 @@ const ayush = {
 </a>
 
 </div>
----
-
----
 
 ---
 
@@ -121,8 +122,9 @@ const ayush = {
 
 ### ⚒️ [Forge: Multi-Tenant Backend-as-a-Service](https://github.com/block-plant/Forge)
 
+<!-- FIX: github-readme-stats pin cards are unreliable — using gh-card.dev instead -->
 <a href="https://github.com/block-plant/Forge">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=block-plant&repo=Forge&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=0096C7&text_color=90E0EF" alt="Forge Repo" width="380"/>
+  <img align="right" src="https://gh-card.dev/repos/block-plant/Forge.svg?fullname=&link_target=_blank&theme=dark" alt="Forge Repo" width="380"/>
 </a>
 
 **A production-grade BaaS built entirely from scratch in Go.**  
@@ -143,12 +145,11 @@ Forge is a complete Firebase/Supabase alternative engineered from first principl
 
 ---
 
----
-
 ### 🌌 [Xenova Archive: Digital Mausoleum of a Lost Empire](https://github.com/block-plant/xenova-archive)
 
+<!-- FIX: github-readme-stats pin cards are unreliable — using gh-card.dev instead -->
 <a href="https://github.com/block-plant/xenova-archive">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=block-plant&repo=xenova-archive&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=0096C7&text_color=90E0EF" alt="Xenova Archive Repo" width="380"/>
+  <img align="right" src="https://gh-card.dev/repos/block-plant/xenova-archive.svg?fullname=&link_target=_blank&theme=dark" alt="Xenova Archive Repo" width="380"/>
 </a>
 
 **An immersive, lore-heavy digital experience — part 3D gallery, part interactive narrative, part gamified terminal.**  
@@ -168,8 +169,10 @@ Forge is a complete Firebase/Supabase alternative engineered from first principl
 ---
 
 ### ⚡ [slave-cp: High-Performance Competitive Programming CLI](https://github.com/block-plant/slave-cp)
+
+<!-- FIX: github-readme-stats pin cards are unreliable — using gh-card.dev instead -->
 <a href="https://github.com/block-plant/slave-cp">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=block-plant&repo=slave-cp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=0096C7&text_color=90E0EF" alt="slave-cp Repo" width="380"/>
+  <img align="right" src="https://gh-card.dev/repos/block-plant/slave-cp.svg?fullname=&link_target=_blank&theme=dark" alt="slave-cp Repo" width="380"/>
 </a>
 
 **A robust CLI automation engine that streamlines the end-to-end competitive programming workflow.**  
@@ -186,6 +189,8 @@ Forge is a complete Firebase/Supabase alternative engineered from first principl
 
 <br clear="both"/>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -193,13 +198,16 @@ Forge is a complete Firebase/Supabase alternative engineered from first principl
 <table width="100%" border="0" cellspacing="0" cellpadding="8">
 <tr>
   <td width="34%" align="center" valign="top">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=block-plant&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00B4D8&icon_color=0096C7&text_color=90E0EF" />
+    <!-- FIX: github-readme-stats is flaky — using githubstats.me as alternative -->
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=block-plant&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00B4D8&icon_color=0096C7&text_color=90E0EF&cache_seconds=1800" />
   </td>
   <td width="32%" align="center" valign="top">
+    <!-- Streak stats — generally reliable -->
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=block-plant&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=0096C7&currStreakLabel=00B4D8&sideLabels=0096C7&dates=555555&stroke=00B4D8" />
   </td>
   <td width="34%" align="center" valign="top">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=block-plant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=90E0EF&langs_count=8" />
+    <!-- FIX: adding cache_seconds to reduce rate-limit failures -->
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=block-plant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=90E0EF&langs_count=8&cache_seconds=1800" />
   </td>
 </tr>
 </table>
@@ -236,13 +244,10 @@ Forge is a complete Firebase/Supabase alternative engineered from first principl
 
 ## 🐍 Watch My Contributions Get Devoured
 
+<!-- FIX: <picture> tag causes rendering issues on some GitHub clients — using direct <img> instead -->
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/block-plant/block-plant/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/block-plant/block-plant/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/block-plant/block-plant/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/block-plant/block-plant/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -264,7 +269,7 @@ Forge is a complete Firebase/Supabase alternative engineered from first principl
   <img src="https://img.shields.io/badge/Codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.codechef.com/users/trip_hope_04">
+<a href="https://www.codechef.com/users/block_plant">
   <img src="https://img.shields.io/badge/CodeChef-%235B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
