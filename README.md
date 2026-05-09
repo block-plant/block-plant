@@ -91,9 +91,8 @@ const ayush = {
 
 **CodeChef** &nbsp;·&nbsp; [`block_plant`](https://www.codechef.com/users/block_plant)
 
-<!-- FIX: cp-logo.vercel.app is dead — using a styled badge instead -->
 <a href="https://www.codechef.com/users/block_plant">
-  <img src="https://img.shields.io/badge/CodeChef-block__plant-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-1415_rating_|_3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
   </td>
