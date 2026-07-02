@@ -242,17 +242,6 @@ Forge is a complete Firebase/Supabase alternative engineered from first principl
 
 ---
 
-## 🐍 Watch My Contributions Get Devoured
-
-<!-- FIX: <picture> tag causes rendering issues on some GitHub clients — using direct <img> instead -->
-<div align="center">
-
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/block-plant/block-plant/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 ## 🤝 Connect
 
 <div align="center">
