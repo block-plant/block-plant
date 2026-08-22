@@ -283,200 +283,99 @@ flowchart LR
 ---
 
 
-## 🚀 Featured Work
-
-
+## 🚀 `[ DEPLOYED_ASSETS ]`
 
 ### ⚒️ [Forge: Multi-Tenant Backend-as-a-Service](https://github.com/block-plant/Forge)
 
-
-
-<!-- FIX: github-readme-stats pin cards are unreliable — using gh-card.dev instead -->
-
 <a href="https://github.com/block-plant/Forge">
-
   <img align="right" src="https://gh-card.dev/repos/block-plant/Forge.svg?fullname=&link_target=_blank&theme=dark" alt="Forge Repo" width="380"/>
-
 </a>
 
+> **A production-grade BaaS built entirely from scratch in Go.**  
+> *Zero external dependencies (no `net/http`, no Postgres). Every byte understood.*
 
+Forge is a complete Firebase/Supabase alternative engineered from first principles, powering entire application ecosystems from a single server by dynamically spawning isolated project environments.
 
-**A production-grade BaaS built entirely from scratch in Go.**  
-
-*Zero external dependencies (no `net/http`, no Postgres). Every byte understood.*
-
-
-
-Forge is a complete Firebase/Supabase alternative engineered from first principles. It powers entire application ecosystems from a single server by dynamically spawning isolated project environments.
-
-
-
-🔹 **Core Engine:** Hand-rolled TCP listener & HTTP/1.1 parser. Custom RFC 6455 WebSocket implementation.<br/>
-
-🔹 **Database & Storage:** Custom NoSQL Document store with an in-memory B-Tree and Write-Ahead Log (WAL) for ACID persistence.<br/>
-
-🔹 **Architecture:** Master/Child multi-tenant node provisioning natively utilizing Linux `systemd` daemon management.<br/>
-
-🔹 **Security:** Custom Domain-Specific Language (DSL) with a hand-written lexer/parser/AST evaluator for declarative security rules.
-
-
+<kbd>ENGN</kbd> Hand-rolled TCP listener & HTTP/1.1 parser with custom RFC 6455 WebSockets<br/>
+<kbd>DATA</kbd> NoSQL Document store featuring in-memory B-Trees & Write-Ahead Logs (WAL)<br/>
+<kbd>ARCH</kbd> Master/Child multi-tenant node provisioning via Linux `systemd`<br/>
+<kbd>SECU</kbd> Custom DSL with a hand-written lexer/parser/AST evaluator for security rules
 
 <br/>
-
-
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/TCP/IP_Sockets-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/System_Architecture-03045E?style=for-the-badge" /> <img src="https://img.shields.io/badge/Compilers_%26_Parsers-90E0EF?style=for-the-badge&labelColor=333" />
 
-
-
 <br clear="both"/>
-
-
 
 ---
 
-
-
-### 🌉 [LoveBridge: Real-Time Communication Platform](https://github.com/your-username/LoveBridge)
-
-
-
-<!-- FIX: github-readme-stats pin cards are unreliable — using gh-card.dev instead -->
+### 🌉 [LoveBridge: Real-Time Communication Platform](https://github.com/block-plant/bridge)
 
 <a href="https://github.com/block-plant/bridge">
-
   <img align="right" src="https://gh-card.dev/repos/block-plant/bridge.svg?fullname=&link_target=_blank&theme=dark" alt="LoveBridge Repo" width="380"/>
-
 </a>
 
+> **A production-deployed full-stack application for real-time communication.**  
+> *Sub-100ms latency peer-to-peer streaming. Fully synchronized state.*
 
+LoveBridge is a comprehensive WebRTC and Firebase platform engineered for seamless connectivity, powering synchronized media rooms, instant messaging, and collaborative planning tools.
 
-**A production-deployed full-stack application for real-time communication.**  
-
-*Sub-100ms latency peer-to-peer streaming. Fully synchronized state.*
-
-
-
-LoveBridge is a comprehensive WebRTC and Firebase platform engineered for seamless connectivity. It powers a synchronized media room, instant messaging, and collaborative planning tools through a highly responsive, PWA-enabled interface.
-
-
-
-🔹 **Core Engine:** WebRTC architecture achieving sub-100ms latency for peer-to-peer video streaming and real-time interactions.<br/>
-
-🔹 **Backend & Data:** Firebase Authentication and Firestore for secure, instantaneous global state synchronization and serverless logic.<br/>
-
-🔹 **Frontend Architecture:** Component-driven UI developed with React.js and Vite, utilizing Tailwind CSS for utility-first responsiveness.<br/>
-
-🔹 **Resilience:** Progressive Web App (PWA) capabilities paired with custom offline detection modules to handle network degradation gracefully.
-
-
+<kbd>CORE</kbd> WebRTC architecture achieving sub-100ms latency for P2P video streaming<br/>
+<kbd>SYNC</kbd> Firebase Auth & Firestore for instantaneous global state synchronization<br/>
+<kbd>UI/X</kbd> Component-driven React.js & Vite interface styled with Tailwind CSS<br/>
+<kbd>PWA</kbd> Progressive Web App capabilities with custom offline detection modules
 
 <br/>
-
-
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-
-
 <br clear="both"/>
 
-
-
 ---
-
-
 
 ### 🌌 [Xenova Archive: Digital Mausoleum of a Lost Empire](https://github.com/block-plant/xenova-archive)
 
-
-
-<!-- FIX: github-readme-stats pin cards are unreliable — using gh-card.dev instead -->
-
 <a href="https://github.com/block-plant/xenova-archive">
-
   <img align="right" src="https://gh-card.dev/repos/block-plant/xenova-archive.svg?fullname=&link_target=_blank&theme=dark" alt="Xenova Archive Repo" width="380"/>
-
 </a>
 
+> **An immersive, lore-heavy digital experience — part 3D gallery, part interactive narrative, part gamified terminal.**  
+> *Chronicling the rise and fall of a civilization that forgot how to die.*
 
-
-**An immersive, lore-heavy digital experience — part 3D gallery, part interactive narrative, part gamified terminal.**  
-
-*Chronicling the rise and fall of a civilization that forgot how to die.*
-
-
-
-🔹 **Interstellar Map:** 14 planets rendered with custom GLSL shaders, atmospheric scattering, procedural ring systems & spatial audio.<br/>
-
-🔹 **Void Vault:** 3D relic viewer with post-processing glitch effects and chromatic aberration for recovered Strain Omega artifacts.<br/>
-
-🔹 **Codex Decoder:** Bi-directional human ↔ Xenovan glyph translator; each decoded entry unlocks a fragment of the "Great Mistake" narrative.<br/>
-
-🔹 **Three Eras:** Discovery (The Harvest) → Ascension (The Synthetic God) → Great Mistake (The Silence).
-
-
+<kbd>MAP</kbd> 14 interstellar planets rendered with custom GLSL shaders & spatial audio<br/>
+<kbd>VAULT</kbd> 3D relic viewer featuring chromatic aberration and glitch post-processing<br/>
+<kbd>CODE</kbd> Bi-directional human ↔ Xenovan glyph translator unlocking narrative fragments<br/>
+<kbd>LORE</kbd> Spans three distinct eras: Harvest, Synthetic God, and The Silence
 
 <br/>
-
-
 
 <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" /> <img src="https://img.shields.io/badge/Custom_GLSL_Shaders-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 
-
-
 <br clear="both"/>
 
-
-
 ---
-
-
 
 ### ⚡ [slave-cp: High-Performance Competitive Programming CLI](https://github.com/block-plant/slave-cp)
 
-
-
-<!-- FIX: github-readme-stats pin cards are unreliable — using gh-card.dev instead -->
-
 <a href="https://github.com/block-plant/slave-cp">
-
   <img align="right" src="https://gh-card.dev/repos/block-plant/slave-cp.svg?fullname=&link_target=_blank&theme=dark" alt="slave-cp Repo" width="380"/>
-
 </a>
 
+> **A robust CLI automation engine that streamlines the end-to-end competitive programming workflow.**  
+> *No browser. No WebDriver. Pure terminal — from fetch to verdict.*
 
-
-**A robust CLI automation engine that streamlines the end-to-end competitive programming workflow.**  
-
-*No browser. No WebDriver. Pure terminal — from fetch to verdict.*
-
-
-
-🔹 **Scraping Engine:** Cloudflare Turnstile bypass via `cloudscraper` — headless extraction of contest metadata & sample test cases without touching a browser.<br/>
-
-🔹 **Headless Submission:** Cookie-based `JSESSIONID` session management replacing Selenium entirely — **90% lower submission latency** with zero WebDriver overhead.<br/>
-
-🔹 **Modular Pipeline:** Decoupled Fetcher → Runner → Submitter architecture; real-time JSON polling for judge verdicts via a headless REST layer.<br/>
-
-🔹 **23+ Languages:** Dynamic cross-platform execution engine managing compilers & interpreters from C++ and Rust to Haskell — with Rich-powered diff tables for test output.
-
-
+<kbd>SCRP</kbd> Cloudflare Turnstile bypass via `cloudscraper` for headless sample extraction<br/>
+<kbd>SUBM</kbd> Cookie-based `JSESSIONID` management yielding 90% lower submission latency<br/>
+<kbd>PIPE</kbd> Decoupled Fetcher → Runner → Submitter architecture with live JSON polling<br/>
+<kbd>EXEC</kbd> Cross-platform execution engine supporting 23+ languages with Rich diff output
 
 <br/>
 
-
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyPI-slave--cp-0096C7?style=for-the-badge&logo=pypi&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-03045E?style=for-the-badge" /> <img src="https://img.shields.io/badge/Rich_Terminal_UI-90E0EF?style=for-the-badge&labelColor=333" /> <img src="https://img.shields.io/badge/Cloudflare_Bypass-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-
-
 
 <br clear="both"/>
 
-
-
 ---
-
 
 
 ## 🏅 Achievements
