@@ -1,34 +1,36 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--               AYUSH — GitHub Profile README               -->
-
+<!--                AYUSH — GitHub Profile README                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-
 
 <div align="center">
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045E,50:0096C7,100:90E0EF&height=220&section=header&text=Hi%2C+I%27m+Ayush+Kunwar+Singh!&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech+%40+MNNIT+Allahabad+%7C+Full-Stack+Dev+%7C+Competitive+Programmer&descSize=16&descAlignY=60&descColor=ffffff" />
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=00B4D8&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%8C%90;Competitive+Programmer+%F0%9F%8F%86;Always+Learning+Something+New;Turning+Ideas+Into+Reality" alt="Typing SVG" />
-
-
+# ⚡ `[ ~/ayush-kunwar-singh ]`
+**Systems Engineer &nbsp;|&nbsp; Competitive Programmer &nbsp;|&nbsp; Full-Stack Dev**
 
 <br/>
 
-<a href="https://komarev.com/ghpvc/?username=block-plant">
-  <img src="https://komarev.com/ghpvc/?username=block-plant&color=0096C7&style=for-the-badge&label=PROFILE+VIEWS" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=800&color=00B4D8&center=true&vCenter=true&width=700&lines=>_Mounting+scalable_architecture.go...;>_Compiling+competitive_macros.cpp...;>_Starting+WebRTC_server.js...;>_Establishing+bare-metal+OS+connections...;>_System_Ready." alt="Boot Sequence Typing SVG" />
 
-<img src="https://img.shields.io/github/followers/block-plant?color=00B4D8&style=for-the-badge&logo=github&label=FOLLOWERS" />
-&nbsp;
-<img src="https://img.shields.io/badge/MNNIT_Allahabad-2nd_Year_B.Tech-03045E?style=for-the-badge&logo=graduation-cap" />
+<br/><br/>
 
-
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 0 5px;">
+      <a href="https://komarev.com/ghpvc/?username=block-plant">
+        <img src="https://komarev.com/ghpvc/?username=block-plant&color=03045E&style=for-the-badge&label=SYS.VIEWS" alt="Profile Views" />
+      </a>
+    </td>
+    <td align="center" style="border: none; padding: 0 5px;">
+      <img src="https://img.shields.io/github/followers/block-plant?color=0096C7&style=for-the-badge&logo=github&label=CONNECTIONS" alt="Followers" />
+    </td>
+    <td align="center" style="border: none; padding: 0 5px;">
+      <img src="https://img.shields.io/badge/MNNIT_Allahabad-B.Tech-00B4D8?style=for-the-badge&logo=graduation-cap" alt="College" />
+    </td>
+    <td align="center" style="border: none; padding: 0 5px;">
+      <img src="https://img.shields.io/badge/STATUS-ONLINE-10b981?style=for-the-badge&logo=linux&logoColor=white" alt="Status" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
