@@ -164,44 +164,63 @@ flowchart LR
 ```
 
 <br/>
----
-
-## 🛠️ Tech Universe
 
 
+
+## ⚙️ `[ ARSENAL ]`
 
 <div align="center">
 
-### 🖥️ Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py&theme=dark&perline=6" />
-
-
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark&perline=6" />
-
-
-
-### ⚙️ Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,mongodb,firebase&theme=dark&perline=6" />
-
-
-
-### 🛠️ Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,npm,vscode&theme=dark&perline=6" />
-
-
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top" style="padding: 5px;">
+      <blockquote>
+        <b><code>MODULE_01: CORE_ARCH</code></b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=cpp,c,go,java,linux,bash&theme=dark&perline=6" /><br/><br/>
+        <kbd>SYST</kbd> System Design · OOP<br/>
+        <kbd>NETW</kbd> TCP/IP · Computer Networks<br/>
+        <kbd>DIST</kbd> Distributed Systems<br/>
+        <kbd>HARD</kbd> ESP32 · Bare-Metal
+      </blockquote>
+    </td>
+    <td width="50%" valign="top" style="padding: 5px;">
+      <blockquote>
+        <b><code>MODULE_02: WEB_ENGINE</code></b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express&theme=dark&perline=6" /><br/><br/>
+        <kbd>DOM.</kbd> React.js · Next.js<br/>
+        <kbd>SYNC</kbd> WebRTC · WebSockets<br/>
+        <kbd>ENV.</kbd> Docker Containerization<br/>
+        <kbd>STYL</kbd> Tailwind CSS · UI/UX
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 5px;">
+      <blockquote>
+        <b><code>MODULE_03: DATA_STATE</code></b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,gcp,aws&theme=dark&perline=6" /><br/><br/>
+        <kbd>RDBM</kbd> Relational DBMS · SQL<br/>
+        <kbd>NOSQ</kbd> MongoDB · Supabase<br/>
+        <kbd>MEM.</kbd> B-Trees · WAL Persistence<br/>
+        <kbd>PROP</kbd> ACID · CAP Theorem
+      </blockquote>
+    </td>
+    <td width="50%" valign="top" style="padding: 5px;">
+      <blockquote>
+        <b><code>MODULE_04: A.I._&_RENDER</code></b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,threejs,wasm,vite&theme=dark&perline=6" /><br/><br/>
+        <kbd>MODL</kbd> Neural Networks · ML<br/>
+        <kbd>INTG</kbd> LLM API Integrations<br/>
+        <kbd>RNDR</kbd> Three.js · GLSL Shaders<br/>
+        <kbd>ANIM</kbd> Framer Motion · GSAP
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-
-
 ---
-
 
 
 ## ⚔️ Competitive Programming
