@@ -42,40 +42,129 @@
 
 
 
-## 🧠 `whoami`
+## 💠 `[ SYSTEM_ARCHITECTURE // WHOAMI ]`
 
+```yaml
+# /etc/ayush/sys_config.yml
+IDENTITY:
+  user: "Ayush Kunwar Singh"
+  base: "MNNIT Allahabad [2nd Yr B.Tech]"
+  roles: 
+    - "Systems Architect"
+    - "Competitive Programmer"
+    - "Full-Stack Developer"
+  mission: "Bridging bare-metal hardware logic with global-scale web architecture."
 
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="coding animation"/>
-
-
-
-```typescript
-
-const ayush = {
-
-  name     : "Ayush Kunwar Singh",
-  username : "block-plant",
-  college  : "MNNIT Allahabad",
-  year     : "2nd Year B.Tech",
-  role     : ["Full-Stack Developer", "Competitive Programmer"],
-  passion  : "Complex algorithms & scalable architecture",
-  arenas   : ["LeetCode", "Codeforces", "CodeChef"],
-  openTo   : "Collabs, tough problems",
-};
-
+KNOWLEDGE_TREE:
+  Languages: [ "C++", "C", "Go", "Java", "Python", "JavaScript", "TypeScript" ]
+  Core_Subjects: [ "OOP", "DBMS", "Computer Networks", "Distributed Systems", "OS", "System Design", "Cryptography" ]
+  Web_Engine: [ "React", "Next.js", "Node.js", "Docker", "REST APIs", "WebSockets", "AI Integrations", "WebRTC", "Tailwind CSS" ]
+  Databases_Cloud: [ "SQL", "MySQL", "MongoDB", "Firebase", "Supabase", "B-Trees", "WAL" ]
+  Creative_AI: [ "Three.js", "Framer Motion", "GLSL Shaders", "Machine Learning", "Neural Networks", "TensorFlow", "PyTorch" ]
+  Low_Level: [ "Linux CLI", "Git", "ESP32", "Bare-Metal", "TCP/IP Sockets" ]
 ```
 
+```mermaid
+flowchart LR
+    %% ROOT NODE
+    subgraph NODE_0 [MASTER CONTROL]
+        direction TB
+        USER(Ayush Kunwar Singh)
+    end
 
+    %% CLUSTER 1: CORE ARCHITECTURE & LANGUAGES
+    subgraph CLUSTER_1 [LOW-LEVEL & CORE ARCHITECTURE]
+        direction TB
+        C1(System Design)
+        C2(Computer Networks & TCP/IP)
+        C3(Distributed Systems)
+        C4(OOP & Relational DBMS)
+        C5(C++ & C)
+        C6(Go)
+        C7(Java & Python)
+        C8(Linux & ESP32 Bare-Metal)
+    end
 
-> 🌱 &nbsp;Deep-diving into **OS · DBMS · System Design** — one rabbit hole at a time.
+    %% CLUSTER 2: MASSIVE FULL-STACK WEB ENGINE
+    subgraph CLUSTER_2 [FULL-STACK WEB ENGINE]
+        direction TB
+        W1(React.js, Next.js & TS)
+        W2(Node.js, Express & REST)
+        W3(Docker & Containerization)
+        W4(AI API Integrations)
+        W5(WebRTC & WebSockets)
+        W6(Firebase & Supabase)
+        W7(SQL & NoSQL Ecosystem)
+        W8(Tailwind CSS & UI/UX)
+    end
+    
+    %% CLUSTER 3: CREATIVE DEV & A.I. MATRIX
+    subgraph CLUSTER_3 [CREATIVE CODE & A.I. MATRIX]
+        direction TB
+        A1(Three.js & WebGL)
+        A2(GLSL Shaders)
+        A3(Framer Motion & GSAP)
+        A4(Machine Learning)
+        A5(Neural Networks)
+        A6(TensorFlow & PyTorch)
+    end
 
-<br clear="right"/>
+    %% CONNECTIONS
+    NODE_0 ==>|Architects| CLUSTER_1
+    NODE_0 ==>|Deploys| CLUSTER_2
+    NODE_0 ==>|Trains & Renders| CLUSTER_3
 
+    %% LINK STYLING (Forces black text on the connection arrows for maximum clarity)
+    linkStyle 0,1,2 stroke:#90E0EF,stroke-width:2px,color:#000000,font-weight:900;
 
+    %% INTERACTIVITY: CLICK EVENTS & HOVER TOOLTIPS
+    click C1 "[https://github.com/topics/system-design](https://github.com/topics/system-design)" "Designing scalable, fault-tolerant systems"
+    click C2 "[https://github.com/topics/computer-networking](https://github.com/topics/computer-networking)" "TCP/IP, Cryptography, and packet routing"
+    click C3 "[https://github.com/topics/distributed-systems](https://github.com/topics/distributed-systems)" "Master/Child nodes and eventual consistency"
+    click C4 "[https://github.com/topics/dbms](https://github.com/topics/dbms)" "B-Trees, WAL, ACID properties, and relational algebra"
+    click C5 "[https://github.com/topics/cpp](https://github.com/topics/cpp)" "Primary weapon for Competitive Programming"
+    click C6 "[https://github.com/topics/go](https://github.com/topics/go)" "High-performance systems engineering"
+    click C8 "[https://github.com/topics/esp32](https://github.com/topics/esp32)" "Bare-metal programming and hardware interfacing"
+
+    click W1 "[https://github.com/topics/react](https://github.com/topics/react)" "Component-driven user interfaces and SSR"
+    click W2 "[https://github.com/topics/nodejs](https://github.com/topics/nodejs)" "Asynchronous event-driven backend services"
+    click W3 "[https://github.com/topics/docker](https://github.com/topics/docker)" "Isolated application environments and deployment pipelines"
+    click W4 "[https://github.com/topics/artificial-intelligence](https://github.com/topics/artificial-intelligence)" "Connecting LLMs and AI logic to frontend interfaces"
+    click W5 "[https://github.com/topics/webrtc](https://github.com/topics/webrtc)" "Sub-100ms latency peer-to-peer streaming"
+    click W6 "[https://github.com/topics/firebase](https://github.com/topics/firebase)" "Real-time state synchronization and cloud auth"
+    click W7 "[https://github.com/topics/sql](https://github.com/topics/sql)" "Complex querying and data modeling"
+
+    click A1 "[https://github.com/topics/threejs](https://github.com/topics/threejs)" "3D rendering and spatial audio"
+    click A2 "[https://github.com/topics/glsl](https://github.com/topics/glsl)" "Custom rendering pipelines and post-processing"
+    click A4 "[https://github.com/topics/machine-learning](https://github.com/topics/machine-learning)" "Regression, classification, and data modeling"
+    click A5 "[https://github.com/topics/neural-network](https://github.com/topics/neural-network)" "Deep learning architectures"
+
+    %% HUD STYLING CLASSES
+    classDef master fill:#03045E,stroke:#00B4D8,stroke-width:2px,color:#fff
+    classDef arch fill:#0077B6,stroke:#00B4D8,color:#fff
+    classDef web fill:#0096C7,stroke:#90E0EF,color:#fff
+    classDef ai fill:#B45309,stroke:#F59E0B,color:#fff
+    classDef cluster fill:#0d1117,stroke-width:1px,stroke-dasharray: 5 5,color:#fff
+    
+    %% APPLY STYLES
+    class NODE_0 master
+    class USER master
+    
+    class CLUSTER_1 cluster
+    style CLUSTER_1 stroke:#00B4D8
+    class C1,C2,C3,C4,C5,C6,C7,C8 arch
+
+    class CLUSTER_2 cluster
+    style CLUSTER_2 stroke:#90E0EF
+    class W1,W2,W3,W4,W5,W6,W7,W8 web
+
+    class CLUSTER_3 cluster
+    style CLUSTER_3 stroke:#F59E0B
+    class A1,A2,A3,A4,A5,A6 ai
+```
+
+<br/>
 ---
-
-
 
 ## 🛠️ Tech Universe
 
