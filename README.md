@@ -145,6 +145,31 @@ Forge is a complete Firebase/Supabase alternative engineered from first principl
 
 ---
 
+### 🌉 [LoveBridge: Real-Time Communication Platform](https://github.com/your-username/LoveBridge)
+
+<!-- FIX: github-readme-stats pin cards are unreliable — using gh-card.dev instead -->
+<a href="https://github.com/block-plant/bridge">
+  <img align="right" src="https://gh-card.dev/repos/block-plant/bridge.svg?fullname=&link_target=_blank&theme=dark" alt="LoveBridge Repo" width="380"/>
+</a>
+
+**A production-deployed full-stack application for real-time communication.**  
+*Sub-100ms latency peer-to-peer streaming. Fully synchronized state.*
+
+LoveBridge is a comprehensive WebRTC and Firebase platform engineered for seamless connectivity. It powers a synchronized media room, instant messaging, and collaborative planning tools through a highly responsive, PWA-enabled interface.
+
+🔹 **Core Engine:** WebRTC architecture achieving sub-100ms latency for peer-to-peer video streaming and real-time interactions.<br/>
+🔹 **Backend & Data:** Firebase Authentication and Firestore for secure, instantaneous global state synchronization and serverless logic.<br/>
+🔹 **Frontend Architecture:** Component-driven UI developed with React.js and Vite, utilizing Tailwind CSS for utility-first responsiveness.<br/>
+🔹 **Resilience:** Progressive Web App (PWA) capabilities paired with custom offline detection modules to handle network degradation gracefully.
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<br clear="both"/>
+
+---
+
 ### 🌌 [Xenova Archive: Digital Mausoleum of a Lost Empire](https://github.com/block-plant/xenova-archive)
 
 <!-- FIX: github-readme-stats pin cards are unreliable — using gh-card.dev instead -->
