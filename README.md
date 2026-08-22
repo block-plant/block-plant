@@ -378,88 +378,68 @@ LoveBridge is a comprehensive WebRTC and Firebase platform engineered for seamle
 ---
 
 
-## 🏅 Achievements
-
-
+## 🏅 `[ MILESTONES & AWARDS ]`
 
 <div align="center">
 
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
-
-<tr>
-
-  <td align="center" width="60px">🥉</td>
-
-  <td><strong>3rd</strong><br/><sub>Cybertron Web Forge at Botrush 4.0</sub></td>
-
-  <td align="right"><sub>Mon 2026</sub></td>
-
-</tr>
-
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%" valign="top" style="padding: 5px;">
+      <blockquote>
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="18" align="center"/> <b><code>HACKATHON_WIN</code></b><br/><br/>
+        <kbd>RANK</kbd> 3rd Place Overall<br/>
+        <kbd>PROJ</kbd> Cybertron Web Forge at Botrush 4.0<br/>
+        <kbd>TIME</kbd> Mon 2026
+      </blockquote>
+    </td>
+  </tr>
 </table>
 
-
-
 </div>
-
-
 
 ---
 
-
-
-## 🤝 Connect
-
-
+## 🤝 `[ SOCIALS ]`
 
 <div align="center">
-
-
 
 <a href="https://www.linkedin.com/in/ayush-kunwar-singh-226502390/">
-
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
 </a>
-
+&nbsp;
 <a href="https://leetcode.com/u/AkunwarS/">
-
   <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-
 </a>
-
+&nbsp;
 <a href="https://codeforces.com/profile/block-plant">
-
   <img src="https://img.shields.io/badge/Codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-
 </a>
-
+&nbsp;
 <a href="https://www.codechef.com/users/block_plant">
-
   <img src="https://img.shields.io/badge/CodeChef-%235B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-
 </a>
-
-
+&nbsp;
+<a href="https://atcoder.jp/users/block_plant">
+  <img src="https://img.shields.io/badge/AtCoder-%23222222?style=for-the-badge&logo=atcoder&logoColor=white" />
+</a>
 
 <br/><br/>
-
-
-
-> *"जीवन में कोई चीज़ इतनी बड़ी मत समझो कि वो तुम्हें डरा सके।"*
-
-> — APJ Abdul Kalam
-
-
-
-</div>
-
-
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:90E0EF,50:0096C7,100:03045E&height=130&section=footer&animation=twinkling" />
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="100%" valign="top" style="padding: 5px;">
+      <blockquote>
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="18" align="center"/> <b><code>CORE_PHILOSOPHY</code></b><br/><br/>
+        > *"I successfully proved one thing: <br/>I can build this in a cave with a box of scraps."*<br/><br/>
+        — <b>Tony Stark</b> <br/>
+        <sub><i>(Engineering from first principles, every single time.)</i></sub>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
+<br/>
 </div>
+
+<br/>
