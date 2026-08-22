@@ -232,16 +232,6 @@ Forge is a complete Firebase/Supabase alternative engineered from first principl
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=block-plant&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00B4D8&line=0096C7&point=90E0EF&area=true&area_color=0096C7" />
-
-</div>
-
----
-
 ## 🤝 Connect
 
 <div align="center">
