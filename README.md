@@ -42,7 +42,7 @@
 
 
 
-## 💠 `[ SYSTEM_ARCHITECTURE // WHOAMI ]`
+## 💠 `[ WHOAMI ]`
 
 ```yaml
 # /etc/ayush/sys_config.yml
