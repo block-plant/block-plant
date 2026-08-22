@@ -223,103 +223,64 @@ flowchart LR
 ---
 
 
-## ⚔️ Competitive Programming
-
-
+## ⚔️ `[ ALGORITHMIC_PROVING_GROUNDS ]`
 
 <div align="center">
 
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
-
-<tr>
-
-  <td width="33%" align="center" valign="top">
-
-
-
-**LeetCode** &nbsp;·&nbsp; [`AkunwarS`](https://leetcode.com/u/AkunwarS/)
-
-
-
-<img width="100%" src="https://leetcard.jacoblin.cool/AkunwarS?theme=dark&font=Fira%20Code&border=0&radius=12&ext=heatmap" />
-
-
-
-  </td>
-
-  <td width="33%" align="center" valign="top">
-
-
-
-**Codeforces** &nbsp;·&nbsp; [`block-plant`](https://codeforces.com/profile/block-plant)
-
-
-
-<img width="100%" src="https://codeforces-readme-stats.vercel.app/api/card?username=block-plant&theme=dark&border_color=0096C7&title_color=00B4D8&text_color=90E0EF&bg_color=0d1117" />
-
-
-
-  </td>
-
-  <td width="33%" align="center" valign="top">
-
-
-
-**CodeChef** [`block_plant`](https://www.codechef.com/users/block_plant)
-
-
-
-<!-- FIX: cp-logo.vercel.app is dead — using a styled badge instead -->
-
-<a href="https://www.codechef.com/users/block_plant">
-
-  <img src="https://img.shields.io/badge/CodeChef-block__plant-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-
-</a>
-
-
-
-  </td>
-
-</tr>
-
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- LEETCODE -->
+    <td width="50%" valign="top" style="padding: 5px;">
+      <blockquote>
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2694_fe0f/512.gif" width="18" align="center"/> <b><code>SYS.FETCH( "LEETCODE" )</code></b><br/><br/>
+        <a href="https://leetcode.com/u/AkunwarS/">
+          <img width="100%" src="https://leetcard.jacoblin.cool/AkunwarS?theme=dark&font=Fira%20Code&border=0&radius=4&ext=heatmap" alt="LeetCode Stats"/>
+        </a>
+      </blockquote>
+    </td>
+    <!-- CODEFORCES -->
+    <td width="50%" valign="top" style="padding: 5px;">
+      <blockquote>
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="18" align="center"/> <b><code>SYS.FETCH( "CODEFORCES" )</code></b><br/><br/>
+        <a href="https://codeforces.com/profile/block-plant">
+          <img width="100%" src="https://codeforces-readme-stats.vercel.app/api/card?username=block-plant&theme=dark&border_color=0096C7&title_color=00B4D8&text_color=90E0EF&bg_color=0d1117&border_radius=4" alt="Codeforces Stats"/>
+        </a>
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <!-- ATCODER (NATIVE HUD) -->
+    <td width="50%" valign="top" style="padding: 5px;">
+      <blockquote>
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="18" align="center"/> <b><code>SYS.FETCH( "ATCODER" )</code></b><br/><br/>
+        <a href="https://atcoder.jp/users/block_plant">
+          <img src="https://img.shields.io/badge/AtCoder-block__plant-222222?style=flat-square&logo=atcoder&logoColor=white" />
+        </a><br/><br/>
+        <kbd>RANK</kbd> [6 Kyu/Green]<br/>
+        <kbd>PEAK</kbd> Max Rating Achieved: [971]<br/>
+        <kbd>SOLV</kbd> [50]+ Problems Conquered<br/>
+        <kbd>MODE</kbd> Mathematics & Logic Grids
+      </blockquote>
+    </td>
+    <!-- CODECHEF (NATIVE HUD) -->
+    <td width="50%" valign="top" style="padding: 5px;">
+      <blockquote>
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="18" align="center"/> <b><code>SYS.FETCH( "CODECHEF" )</code></b><br/><br/>
+        <a href="https://www.codechef.com/users/block_plant">
+          <img src="https://img.shields.io/badge/CodeChef-block__plant-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+        </a><br/><br/>
+        <kbd>RANK</kbd> 3★ Advanced Division<br/>
+        <kbd>PEAK</kbd> Max Rating Achieved: 1650+<br/>
+        <kbd>SOLV</kbd> 300+ Problems Conquered<br/>
+        <kbd>MODE</kbd> Data Structures & Algorithms
+      </blockquote>
+    </td>
+  </tr>
 </table>
-
-
-
-<br/>
-
-
-
-<a href="https://leetcode.com/u/AkunwarS/">
-
-  <img src="https://img.shields.io/badge/LeetCode-AkunwarS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-
-</a>
-
-<a href="https://codeforces.com/profile/block-plant">
-
-  <img src="https://img.shields.io/badge/Codeforces-block--plant-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-</a>
-
-
-<a href="https://www.codechef.com/users/block_plant">
-
-  <img src="https://img.shields.io/badge/CodeChef-block__plant-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-
-</a>
-
-
 
 </div>
 
-
-
 ---
-
 
 
 ## 🚀 Featured Work
