@@ -191,31 +191,6 @@ Forge is a complete Firebase/Supabase alternative engineered from first principl
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
-<tr>
-  <td width="34%" align="center" valign="top">
-    <!-- FIX: github-readme-stats is flaky — using githubstats.me as alternative -->
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=block-plant&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00B4D8&icon_color=0096C7&text_color=90E0EF&cache_seconds=1800" />
-  </td>
-  <td width="32%" align="center" valign="top">
-    <!-- Streak stats — generally reliable -->
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=block-plant&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=0096C7&currStreakLabel=00B4D8&sideLabels=0096C7&dates=555555&stroke=00B4D8" />
-  </td>
-  <td width="34%" align="center" valign="top">
-    <!-- FIX: adding cache_seconds to reduce rate-limit failures -->
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=block-plant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=90E0EF&langs_count=8&cache_seconds=1800" />
-  </td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🏅 Achievements
 
 <div align="center">
