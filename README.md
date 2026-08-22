@@ -20,27 +20,17 @@
 
 <br/>
 
-
-
 <a href="https://komarev.com/ghpvc/?username=block-plant">
-
   <img src="https://komarev.com/ghpvc/?username=block-plant&color=0096C7&style=for-the-badge&label=PROFILE+VIEWS" />
-
 </a>
 
-&nbsp;
-
 <img src="https://img.shields.io/github/followers/block-plant?color=00B4D8&style=for-the-badge&logo=github&label=FOLLOWERS" />
-
 &nbsp;
-
 <img src="https://img.shields.io/badge/MNNIT_Allahabad-2nd_Year_B.Tech-03045E?style=for-the-badge&logo=graduation-cap" />
 
 
 
 </div>
-
-
 
 <br/>
 
@@ -63,21 +53,13 @@
 const ayush = {
 
   name     : "Ayush Kunwar Singh",
-
   username : "block-plant",
-
   college  : "MNNIT Allahabad",
-
   year     : "2nd Year B.Tech",
-
   role     : ["Full-Stack Developer", "Competitive Programmer"],
-
   passion  : "Complex algorithms & scalable architecture",
-
   arenas   : ["LeetCode", "Codeforces", "CodeChef"],
-
   openTo   : "Collabs, tough problems",
-
 };
 
 ```
@@ -86,10 +68,7 @@ const ayush = {
 
 > 🌱 &nbsp;Deep-diving into **OS · DBMS · System Design** — one rabbit hole at a time.
 
-
-
 <br clear="right"/>
-
 
 
 ---
@@ -101,8 +80,6 @@ const ayush = {
 
 
 <div align="center">
-
-
 
 ### 🖥️ Languages
 
@@ -180,7 +157,7 @@ const ayush = {
 
 
 
-**CodeChef** &nbsp;·&nbsp; [`block_plant`](https://www.codechef.com/users/block_plant)
+**CodeChef** [`block_plant`](https://www.codechef.com/users/block_plant)
 
 
 
@@ -212,15 +189,12 @@ const ayush = {
 
 </a>
 
-&nbsp;
-
 <a href="https://codeforces.com/profile/block-plant">
 
   <img src="https://img.shields.io/badge/Codeforces-block--plant-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 
 </a>
 
-&nbsp;
 
 <a href="https://www.codechef.com/users/block_plant">
 
@@ -480,23 +454,17 @@ LoveBridge is a comprehensive WebRTC and Firebase platform engineered for seamle
 
 </a>
 
-&nbsp;
-
 <a href="https://leetcode.com/u/AkunwarS/">
 
   <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 
 </a>
 
-&nbsp;
-
 <a href="https://codeforces.com/profile/block-plant">
 
   <img src="https://img.shields.io/badge/Codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 
 </a>
-
-&nbsp;
 
 <a href="https://www.codechef.com/users/block_plant">
 
