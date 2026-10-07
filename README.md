@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=800&color=00B4D8&center=true&vCenter=true&width=700&lines=>_Mounting+scalable_architecture.go...;>_Compiling+competitive_macros.cpp...;>_Starting+WebRTC_server.js...;>_Establishing+bare-metal+OS+connections...;>_System_Ready." alt="Boot Sequence Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=800&color=00B4D8&center=true&vCenter=true&width=700&lines=>_Mounting+scalable_architecture.go...;>_Compiling+competitive_macros.cpp...;>_Training+GAT_link_predictor.py...;>_Starting+WebRTC_server.js...;>_Establishing+bare-metal+OS+connections...;>_System_Ready." alt="Boot Sequence Typing SVG" />
 
 <br/><br/>
 
@@ -36,11 +36,7 @@
 
 <br/>
 
-
-
 ---
-
-
 
 ## 💠 `[ WHOAMI ]`
 
@@ -59,8 +55,8 @@ KNOWLEDGE_TREE:
   Languages: [ "C++", "C", "Go", "Java", "Python", "JavaScript", "TypeScript" ]
   Core_Subjects: [ "OOP", "DBMS", "Computer Networks", "Distributed Systems", "OS", "System Design", "Cryptography" ]
   Web_Engine: [ "React", "Next.js", "Node.js", "Docker", "REST APIs", "WebSockets", "AI Integrations", "WebRTC", "Tailwind CSS" ]
-  Databases_Cloud: [ "SQL", "MySQL", "MongoDB", "Firebase", "Supabase", "B-Trees", "WAL" ]
-  Creative_AI: [ "Three.js", "Framer Motion", "GLSL Shaders", "Machine Learning", "Neural Networks", "TensorFlow", "PyTorch" ]
+  Databases_Cloud: [ "SQL", "MySQL", "MongoDB", "Firebase", "Supabase", "LMDB", "B-Trees", "WAL", "Memory-Mapped I/O" ]
+  Creative_AI: [ "PyTorch", "PyTorch Geometric", "Graph Neural Networks (GAT)", "FAISS", "spaCy", "TensorFlow", "Three.js", "Framer Motion", "GLSL Shaders" ]
   Low_Level: [ "Linux CLI", "Git", "ESP32", "Bare-Metal", "TCP/IP Sockets" ]
 ```
 
@@ -94,7 +90,7 @@ flowchart LR
         W4(AI API Integrations)
         W5(WebRTC & WebSockets)
         W6(Firebase & Supabase)
-        W7(SQL & NoSQL Ecosystem)
+        W7(SQL, LMDB & NoSQL)
         W8(Tailwind CSS & UI/UX)
     end
     
@@ -104,9 +100,9 @@ flowchart LR
         A1(Three.js & WebGL)
         A2(GLSL Shaders)
         A3(Framer Motion & GSAP)
-        A4(Machine Learning)
-        A5(Neural Networks)
-        A6(TensorFlow & PyTorch)
+        A4(Graph Neural Nets & GAT)
+        A5(FAISS Vector Search & NLP)
+        A6(PyTorch & TensorFlow)
     end
 
     %% CONNECTIONS
@@ -132,12 +128,12 @@ flowchart LR
     click W4 "[https://github.com/topics/artificial-intelligence](https://github.com/topics/artificial-intelligence)" "Connecting LLMs and AI logic to frontend interfaces"
     click W5 "[https://github.com/topics/webrtc](https://github.com/topics/webrtc)" "Sub-100ms latency peer-to-peer streaming"
     click W6 "[https://github.com/topics/firebase](https://github.com/topics/firebase)" "Real-time state synchronization and cloud auth"
-    click W7 "[https://github.com/topics/sql](https://github.com/topics/sql)" "Complex querying and data modeling"
+    click W7 "[https://github.com/topics/sql](https://github.com/topics/sql)" "Complex querying, LMDB, and memory-mapped storage"
 
     click A1 "[https://github.com/topics/threejs](https://github.com/topics/threejs)" "3D rendering and spatial audio"
     click A2 "[https://github.com/topics/glsl](https://github.com/topics/glsl)" "Custom rendering pipelines and post-processing"
-    click A4 "[https://github.com/topics/machine-learning](https://github.com/topics/machine-learning)" "Regression, classification, and data modeling"
-    click A5 "[https://github.com/topics/neural-network](https://github.com/topics/neural-network)" "Deep learning architectures"
+    click A4 "[https://github.com/topics/graph-neural-networks](https://github.com/topics/graph-neural-networks)" "Multi-hop link prediction and Graph Attention Networks"
+    click A5 "[https://github.com/topics/faiss](https://github.com/topics/faiss)" "High-dimensional vector similarity search and hybrid NER"
 
     %% HUD STYLING CLASSES
     classDef master fill:#03045E,stroke:#00B4D8,stroke-width:2px,color:#fff
@@ -164,8 +160,6 @@ flowchart LR
 ```
 
 <br/>
-
-
 
 ## ⚙️ `[ ARSENAL ]`
 
@@ -200,17 +194,17 @@ flowchart LR
         <b><code>MODULE_03: DATA_STATE</code></b><br/><br/>
         <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,gcp,aws&theme=dark&perline=6" /><br/><br/>
         <kbd>RDBM</kbd> Relational DBMS · SQL<br/>
-        <kbd>NOSQ</kbd> MongoDB · Supabase<br/>
-        <kbd>MEM.</kbd> B-Trees · WAL Persistence<br/>
+        <kbd>NOSQ</kbd> MongoDB · Supabase · LMDB<br/>
+        <kbd>MEM.</kbd> B-Trees · WAL · Memmap I/O<br/>
         <kbd>PROP</kbd> ACID · CAP Theorem
       </blockquote>
     </td>
     <td width="50%" valign="top" style="padding: 5px;">
       <blockquote>
         <b><code>MODULE_04: A.I._&_RENDER</code></b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,threejs,wasm,vite&theme=dark&perline=6" /><br/><br/>
-        <kbd>MODL</kbd> Neural Networks · ML<br/>
-        <kbd>INTG</kbd> LLM API Integrations<br/>
+        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,threejs,wasm,vite&theme=dark&perline=6" /><br/><br/>
+        <kbd>MODL</kbd> Graph Neural Nets (GAT) · FAISS<br/>
+        <kbd>INTG</kbd> spaCy NLP · LLM Integrations<br/>
         <kbd>RNDR</kbd> Three.js · GLSL Shaders<br/>
         <kbd>ANIM</kbd> Framer Motion · GSAP
       </blockquote>
@@ -221,7 +215,6 @@ flowchart LR
 </div>
 
 ---
-
 
 ## ⚔️ `[ ALGORITHMIC_PROVING_GROUNDS ]`
 
@@ -282,7 +275,6 @@ flowchart LR
 
 ---
 
-
 ## 🚀 `[ DEPLOYED_ASSETS ]`
 
 ### ⚒️ [Forge: Multi-Tenant Backend-as-a-Service](https://github.com/block-plant/Forge)
@@ -304,6 +296,30 @@ Forge is a complete Firebase/Supabase alternative engineered from first principl
 <br/>
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/TCP/IP_Sockets-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/System_Architecture-03045E?style=for-the-badge" /> <img src="https://img.shields.io/badge/Compilers_%26_Parsers-90E0EF?style=for-the-badge&labelColor=333" />
+
+<br clear="both"/>
+
+---
+
+### 🦇 [Gotham: Graph-Based Criminal Intelligence Engine](https://github.com/block-plant/Gotham)
+
+<a href="https://github.com/block-plant/Gotham">
+  <img align="right" src="https://gh-card.dev/repos/block-plant/Gotham.svg?fullname=&link_target=_blank&theme=dark" alt="Gotham Repo" width="380"/>
+</a>
+
+> **An end-to-end forensic link-prediction & entity resolution engine.**  
+> *Zero-RAM-bottleneck graph compilation. Uncovering hidden syndicates across FIRs.*
+
+Gotham transforms unstructured police narratives into a memory-mapped heterogeneous entity graph, combining deep Graph Attention Networks with probabilistic evidence scoring to expose multi-hop criminal rings while suppressing hub noise.
+
+<kbd>EXTR</kbd> Streaming Pre-NER regex + spaCy pipeline with DSU alias & entity resolution<br/>
+<kbd>MEM.</kbd> Zero-RAM-bottleneck graph storage via LMDB & `int64` memory-mapped arrays<br/>
+<kbd>GNN.</kbd> 3-layer GAT encoder with Jumping Knowledge & SHA-hashed identity residuals<br/>
+<kbd>INVS</kbd> FAISS `IndexFlatIP` vector search paired with a Noisy-OR forensic evidence stack
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/FAISS_%26_LMDB-0096C7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Graph_Attention_Networks-03045E?style=for-the-badge" /> <img src="https://img.shields.io/badge/spaCy_NLP-90E0EF?style=for-the-badge&labelColor=333" />
 
 <br clear="both"/>
 
@@ -377,7 +393,6 @@ LoveBridge is a comprehensive WebRTC and Firebase platform engineered for seamle
 
 ---
 
-
 ## 🏅 `[ MILESTONES & AWARDS ]`
 
 <div align="center">
@@ -389,7 +404,7 @@ LoveBridge is a comprehensive WebRTC and Firebase platform engineered for seamle
         <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="18" align="center"/> <b><code>HACKATHON_WIN</code></b><br/><br/>
         <kbd>RANK</kbd> 3rd Place Overall<br/>
         <kbd>PROJ</kbd> Cybertron Web Forge at Botrush 4.0<br/>
-        <kbd>TIME</kbd> Mon 2026
+        <kbd>TIME</kbd> Aug 2026
       </blockquote>
     </td>
   </tr>
@@ -424,7 +439,6 @@ LoveBridge is a comprehensive WebRTC and Firebase platform engineered for seamle
 </a>
 
 <br/><br/>
-<div align="center">
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -441,5 +455,3 @@ LoveBridge is a comprehensive WebRTC and Firebase platform engineered for seamle
 
 <br/>
 </div>
-
-<br/>
